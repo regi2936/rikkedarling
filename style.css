@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+}
+
+#sectionwrapper {
+    background-image: url(billeder/abstrakt-maleri-salg-shadows2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+
+}
+
+#logo {
+    width: 500px;
+    padding: 100px 440px;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+
+li {
+    float: right;
+    padding-right: 20px;
+}
+
+li a {
+    display: block;
+    color: #969494;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-family: "Copperplate";
+    font-style: normal;
+    font-weight: lighter;
+}
+
+.slideshow-container {
+    padding: 50px 50px;
+}
